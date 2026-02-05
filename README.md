@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate whit my wife to create an software to colombian enterpices
 - 📫 How to reach me nicolas.caicedo.her@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i´m a Terraria and Project Zomvoid player
+- ⚡ Fun fact: i´m a Terraria and Project Zomboid player
 
 <!---
 Kowell23/Kowell23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
